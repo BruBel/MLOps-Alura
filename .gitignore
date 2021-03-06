@@ -1,3 +1,6 @@
+env_var.yaml
+mlops-alura-306715-bdf5df9a2884.json
+my_env/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
